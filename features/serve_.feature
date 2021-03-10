@@ -1,5 +1,5 @@
 Feature:
   <Some interesting description here>
 
-  Scenario:
+  Scenario: test
     <Some interesting scenario steps here>
